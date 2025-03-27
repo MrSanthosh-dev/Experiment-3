@@ -14,7 +14,8 @@
 7. Stop the program. 
 
 ## Program
-```num = input("Enter a number: ")  
+```
+num = input("Enter a number: ")  
 flag = 0  
 
 if num.isnumeric():  
@@ -39,6 +40,7 @@ else:
     print("Enter a Positive Number")
 ```
 ## Output
+
 ![image](https://github.com/user-attachments/assets/0531d3c8-885b-46bb-8de9-4e3bfb6d8050)
 
 ![image](https://github.com/user-attachments/assets/76480681-b3e2-4a6c-8418-0db2dd4537b1)
